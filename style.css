@@ -1,0 +1,31 @@
+.drejtohu{
+
+    display: flex;
+}
+body {
+    background-color: aqua;
+    color: white;
+    padding: 40px;  
+}
+#KRYESR {
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    border-radius: 25px;
+}
+#black{
+    color:black;
+    background-color: white; 
+    padding: 35px;
+    border-radius: 15px;
+}
+#butoni{
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 10px; 
+    float: right;
+    border-radius: 6px;
+    
+}
